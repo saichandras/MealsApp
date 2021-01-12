@@ -4,7 +4,7 @@ Meals Application developed using React native and redux with a predefined datas
 
 Link to application:- Coming Soon!!
 
-Make sure to run this command before starting the react-native  server
+Make sure to run this command before building the project using react-native server
 ```
 react-native link
 expo install expo-font
