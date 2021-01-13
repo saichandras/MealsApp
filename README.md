@@ -1,6 +1,6 @@
 # MealsApp
 
-Meals Application developed using React native and redux with a predefined dataset where users can find a variety of meals under different categories with description and making. Moreover, the app also allows users to filter and favorite meals according to their interests and requirements.
+Meals Application developed using React native and redux with a predefined dataset where users can find a variety of meals under different categories with description and preperation. Moreover, the app also allows users to filter and favorite meals according to their interests and requirements.
 
 Link to application:- Coming Soon!!
 
