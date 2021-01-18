@@ -7,6 +7,7 @@ Link to application:- <a id="meals-app-android" href="https://alabama.box.com/s/
 Make sure to run this command before building the project using react-native server
 ```
 react-native link
+npm install
 expo install expo-font
 ```
 
