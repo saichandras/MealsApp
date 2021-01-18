@@ -2,7 +2,7 @@
 
 Meals Application developed using React native and redux with a predefined dataset where users can find a variety of meals under different categories with description and preperation. Moreover, the app also allows users to filter and favorite meals according to their interests and requirements.
 
-Link to application:- <a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">Download FILE</a>
+Link to application:- <a id="meals-app-android" href="https://alabama.box.com/s/ey8mo2kbj6v0obxfhoo6knibn2b4q005">Android</a>
 
 Make sure to run this command before building the project using react-native server
 ```
